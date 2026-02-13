@@ -63,7 +63,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/hithere-devs/links-tree.git
+   git clone https://github.com/cipherrahul/links-tree.git
    cd links-tree
    ```
 
@@ -211,7 +211,7 @@ This project is private and proprietary. All rights reserved.
 
 ## 👨‍💻 About Me
 
-**Azhar Mahmood** - Full Stack Developer & DevOps Engineer
+**Rahul Choudhary** - Full Stack Developer & DevOps Engineer
 
 - **Specializations**: React, Node.js, Spring Boot, Cloud Technologies
 - **Experience**: Associate Backend Developer at Reachinbox.ai
